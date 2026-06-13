@@ -1,0 +1,22 @@
+{
+        "name": "trendyol-integration-developer-tool",
+        "version": "1.0.1",
+        "description": "Build Trendyol Marketplace seller integrations with confidence. Plans integrations module by module, reads live API contracts from the official Trendyol MCP server, validates payloads before you ship them, and generates curl commands, test fixtures, and code in 8 languages — with a safety guard for accidental production API calls.",
+        "author": {
+          "name": "Trendyol",
+          "url": "https://developers.trendyol.com"
+        },
+        "homepage": "https://github.com/Trendyol/trendyol-integration-developer-tool-cursor",
+        "repository": "https://github.com/Trendyol/trendyol-integration-developer-tool-cursor",
+        "license": "Apache-2.0",
+        "keywords": [
+          "trendyol",
+          "marketplace",
+          "ecommerce",
+          "product-integration",
+          "seller",
+          "api",
+          "mcp",
+          "validation"
+        ]
+      }

@@ -1,0 +1,17 @@
+{
+        "version": 1,
+        "hooks": {
+          "beforeShellExecution": [
+            {
+              "command": "node hooks/pretool-guard-cursor.mjs",
+              "failClosed": true
+            }
+          ],
+          "beforeMCPExecution": [
+            {
+              "command": "node hooks/pretool-guard-cursor.mjs",
+              "failClosed": true
+            }
+          ]
+        }
+      }
