@@ -1,3 +1,5 @@
+
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Trendyol/trendyol-integration-developer-tool-cursor/badge)](https://scorecard.dev/viewer/?uri=github.com/Trendyol/trendyol-integration-developer-tool-cursor)
 # Trendyol Integration Developer Tool — Cursor Plugin
 
 A Cursor plugin that turns the agent into a specialist for Trendyol Marketplace
